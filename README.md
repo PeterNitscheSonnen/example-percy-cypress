@@ -8,6 +8,7 @@ app, forked at commit
 
 ## Cypress Tutorial
 
+
 The tutorial assumes you're already familiar with JavaScript and
 [Cypress](https://cypress.io/) and focuses on using it with Percy. You'll still
 be able to follow along if you're not familiar with Cypress, but we won't
